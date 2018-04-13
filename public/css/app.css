@@ -46,3 +46,8 @@ div.lista {
   width: 50%;
   margin: 0 auto !important;
 }
+
+.precioTexto{
+  font-size: 1.3rem;
+  color: #ffab40 !important;
+}
